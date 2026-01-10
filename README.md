@@ -6,6 +6,8 @@ This Challenge is Sponsored by [Databricks](https://www.databricks.com/) and org
 
 ---
 
+[Challenge Link] - https://indiandataclub.notion.site/Databricks-14-Days-AI-Challenge-2e09b695c411802398eed89908875221
+
 **Before starting the challenge, watch this recording for the Notion overview.**
 
 [IDC Databricks Induction Session: Complete Guide to The Challenge](https://youtu.be/yWTGo0c_2WQ?si=tyG9ndJt3-kYJaHx)
