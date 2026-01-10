@@ -1,7 +1,5 @@
 # PHASE 1: FOUNDATION (Days 1-4)
 
----
-
 ## DAY 1 (09/01/26)– Platform Setup & First Steps
 
 ### Learn:
