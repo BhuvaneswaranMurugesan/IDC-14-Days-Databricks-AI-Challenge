@@ -15,11 +15,3 @@ This Challenge is Sponsored by [Databricks](https://www.databricks.com/) and org
 ---
 
 [𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 (𝗧𝘄𝗼 𝗣𝗵𝗮𝘀𝗲𝘀)](https://www.notion.so/2e39b695c41180a6aad3d5527b77b145?pvs=21)
-
----
-
-[Essentials](https://www.notion.so/2e39b695c41180fd88d3cfda8304fd3e?pvs=21)
-
----
-
-**Here is the link to sign up for Databricks: [Click Here](https://bit.ly/4nK0NTN)**
