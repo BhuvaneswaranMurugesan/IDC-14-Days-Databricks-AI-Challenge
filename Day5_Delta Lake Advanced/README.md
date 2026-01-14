@@ -1,4 +1,4 @@
-### **DAY 5 (13/01/26) – Delta Lake Advanced**
+### **DAY 5 (14/01/26) – Delta Lake Advanced**
 
 ## Learn:
 
